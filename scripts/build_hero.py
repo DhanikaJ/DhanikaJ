@@ -12,8 +12,8 @@ while portrait and not portrait[-1].strip():
 # ---- layout -------------------------------------------------------------
 W, H = 900, 560
 PANEL, BORDER = "#0d1117", "#30363d"
-P_FS, P_CW, P_LH = 7.6, 4.56, 8.55          # portrait font size / char width / line height
-P_X, P_Y = 24, 30
+P_FS, P_CW, P_LH = 8.0, 4.9, 9.0          # portrait font size / char width / line height
+P_X, P_Y = 26, 26
 T_X = 482                                    # terminal column x
 T_FS, T_CW, T_LH = 14, 8.4, 25
 
@@ -24,7 +24,7 @@ script = [
     ("gap",),
     ("cmd", "cat role.txt"),
     ("out", "Full-Stack Software Engineer", "txt"),
-    ("out", "paid intern / junior  ·  open to work", "dim"),
+    ("out", "intern / junior  ·  open to work", "dim"),
     ("gap",),
     ("cmd", "cat stack.txt"),
     ("out", "Java · Spring Boot · TypeScript", "txt"),
@@ -41,7 +41,7 @@ script = [
 out = []
 a = out.append
 a(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" '
-  f'aria-label="ASCII portrait of Dhanika and a terminal intro: full-stack software engineer, open to paid internship or junior roles">')
+  f'aria-label="ASCII portrait of Dhanika and a terminal intro: full-stack software engineer, open to an internship or junior roles">')
 a('<defs>')
 a('<linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#58e6aa"/><stop offset="1" stop-color="#79c0ff"/></linearGradient>')
 a('<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#58e6aa" stop-opacity="0"/><stop offset=".5" stop-color="#58e6aa" stop-opacity=".22"/><stop offset="1" stop-color="#58e6aa" stop-opacity="0"/></linearGradient>')

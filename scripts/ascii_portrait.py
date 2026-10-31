@@ -5,9 +5,9 @@ from PIL import Image, ImageOps, ImageFilter, ImageDraw, ImageChops
 
 RAMP = " .,:;i1tfLCG08@"
 INVERT = True
-GAMMA = 0.8          # short, clean ramp: light -> dense
+GAMMA = 1.0          # short, clean ramp: light -> dense
 
-def to_lines(path, cols=96, crop=(0.17, 0.04, 0.83, 0.70)):
+def to_lines(path, cols=96, crop=(0, 0, 1, 1)):
     im = Image.open(path).convert("RGB")
     w, h = im.size
     im = im.crop((int(w*crop[0]), int(h*crop[1]), int(w*crop[2]), int(h*crop[3])))
@@ -15,9 +15,9 @@ def to_lines(path, cols=96, crop=(0.17, 0.04, 0.83, 0.70)):
 
     # 1) backdrop mask by flood-filling (magenta marker) from the top corners; won't leak into the white shirt
     m = im.filter(ImageFilter.GaussianBlur(2)).copy()
-    for seed in [(1, 1), (m.width-2, 1), (1, m.height//3), (m.width-2, m.height//3)]:
+    for seed in [(1, 1), (m.width-2, 1), (1, m.height//3), (m.width-2, m.height//3), (m.width-2, m.height-2)]:
         if m.getpixel(seed) != (255, 0, 255):
-            ImageDraw.floodfill(m, seed, (255, 0, 255), thresh=18)
+            ImageDraw.floodfill(m, seed, (255, 0, 255), thresh=34)
     bg = m.point(lambda v: v).convert("RGB")
     r, gch, b = bg.split()
     bg = ImageChops.multiply(r.point(lambda v: 255 if v == 255 else 0), gch.point(lambda v: 255 if v == 0 else 0))
