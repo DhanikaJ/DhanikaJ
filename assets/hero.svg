@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" role="img" aria-label="ASCII portrait of Dhanika and a terminal intro: full-stack software engineer, open to paid internship or junior roles">
+<defs>
+<linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#58e6aa"/><stop offset="1" stop-color="#79c0ff"/></linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#58e6aa" stop-opacity="0"/><stop offset=".5" stop-color="#58e6aa" stop-opacity=".22"/><stop offset="1" stop-color="#58e6aa" stop-opacity="0"/></linearGradient>
+<clipPath id="pclip"><rect x="0" y="0" width="464" height="560"/></clipPath>
+</defs>
+<style>
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'DejaVu Sans Mono',monospace;white-space:pre}
+.pl{fill:url(#pg);opacity:0;animation:show .25s ease-out forwards}
+.cover{fill:#0d1117;transform-box:fill-box;animation:wipe var(--d,1s) steps(var(--n,10),end) var(--t,0s) forwards}
+.scan{animation:sweep 5.5s linear 3s infinite;transform:translateY(-40px)}
+.cur{animation:blink 1s steps(1) infinite}
+.prompt{fill:#58e6aa}.txt{fill:#c9d1d9}.hl{fill:#79c0ff;font-weight:700}.dim{fill:#8b949e}
+@keyframes show{to{opacity:1}}
+@keyframes wipe{to{transform:translateX(104%)}}
+@keyframes sweep{to{transform:translateY(600px)}}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.pl{opacity:1;animation:none}.cover,.scan{display:none}.cur{animation:none}}
+</style>
+<rect width="900" height="560" rx="14" fill="#0d1117"/>
+<g clip-path="url(#pclip)">
+<text class="pl" x="24" y="38.55" font-size="7.6" textLength="250.8" lengthAdjust="spacing" style="animation-delay:0.295s" xml:space="preserve">                                     ..,::;;;;;:::::,,.</text>
+<text class="pl" x="24" y="47.10" font-size="7.6" textLength="278.2" lengthAdjust="spacing" style="animation-delay:0.340s" xml:space="preserve">                               .;tfLLGG888@@8888880000GLf1;,.</text>
+<text class="pl" x="24" y="55.65" font-size="7.6" textLength="296.4" lengthAdjust="spacing" style="animation-delay:0.385s" xml:space="preserve">                          .;111f8@@@8080000000000080888@@@80CLt;.</text>
+<text class="pl" x="24" y="64.20" font-size="7.6" textLength="314.6" lengthAdjust="spacing" style="animation-delay:0.430s" xml:space="preserve">                        .if8@@@@88000GG0080G0888888@8888888888880Li,.</text>
+<text class="pl" x="24" y="72.75" font-size="7.6" textLength="328.3" lengthAdjust="spacing" style="animation-delay:0.475s" xml:space="preserve">                     .,tG8@00GGG008800008888888@8888@888800880008800Lt;.</text>
+<text class="pl" x="24" y="81.30" font-size="7.6" textLength="346.6" lengthAdjust="spacing" style="animation-delay:0.520s" xml:space="preserve">                   .;f8@@88880GG0008888@8888880088008@@8880088800008888GLi..</text>
+<text class="pl" x="24" y="89.85" font-size="7.6" textLength="355.7" lengthAdjust="spacing" style="animation-delay:0.565s" xml:space="preserve">                 .1G8@80008888008888888888888880G880088@@@808@@808888888@@0L;.</text>
+<text class="pl" x="24" y="98.40" font-size="7.6" textLength="360.2" lengthAdjust="spacing" style="animation-delay:0.610s" xml:space="preserve">                .t@@8880GG0888888888888008@@888@88888888@@88@@@88888888888@@81.</text>
+<text class="pl" x="24" y="106.95" font-size="7.6" textLength="364.8" lengthAdjust="spacing" style="animation-delay:0.655s" xml:space="preserve">               .1088@8000888@88@888888088888@@88@@8888888@@@@@@@@@888888@@88@C:;</text>
+<text class="pl" x="24" y="115.50" font-size="7.6" textLength="364.8" lengthAdjust="spacing" style="animation-delay:0.700s" xml:space="preserve">              ,L@88880G888@@8888888808888888888888880888088888888@@@88888@@8@0i:</text>
+<text class="pl" x="24" y="124.05" font-size="7.6" textLength="364.8" lengthAdjust="spacing" style="animation-delay:0.745s" xml:space="preserve">             ,G@88800088@@800CCLCCCCCCGGCGGCGCCCCCCCCCG00088888888@@@@88@8888L,.</text>
+<text class="pl" x="24" y="132.60" font-size="7.6" textLength="364.8" lengthAdjust="spacing" style="animation-delay:0.790s" xml:space="preserve">            .L@88888@@88GCLLLfffffffffffffffffffttttttfLG00088888888@8@@8888G;,.</text>
+<text class="pl" x="24" y="141.15" font-size="7.6" textLength="369.4" lengthAdjust="spacing" style="animation-delay:0.835s" xml:space="preserve">           .,088888888GffffffftttttttttttttttttttttttttttfCCG08800888888@888@C;;:</text>
+<text class="pl" x="24" y="149.70" font-size="7.6" textLength="369.4" lengthAdjust="spacing" style="animation-delay:0.880s" xml:space="preserve">            ,0888880GCfffffttttt11111tttttttttt111111111t1tfLC0800G08888888888L,,</text>
+<text class="pl" x="24" y="158.25" font-size="7.6" textLength="369.4" lengthAdjust="spacing" style="animation-delay:0.925s" xml:space="preserve">            ,0@88880GLffttttt1111111111tttt1t11111111111111ttLL08000G00888888@8:.</text>
+<text class="pl" x="24" y="166.80" font-size="7.6" textLength="369.4" lengthAdjust="spacing" style="animation-delay:0.970s" xml:space="preserve">            .0@88800Cffttttt1111111111111111111111111111111ttfCG8888080G0088888i.</text>
+<text class="pl" x="24" y="175.35" font-size="7.6" textLength="364.8" lengthAdjust="spacing" style="animation-delay:1.015s" xml:space="preserve">            .C888880Lfftttt1111111111111111111111111111111ttttLG888880800G00088:</text>
+<text class="pl" x="24" y="183.90" font-size="7.6" textLength="364.8" lengthAdjust="spacing" style="animation-delay:1.060s" xml:space="preserve">            .i@8888Lffftttt1111iii111111111111111111111111tttffL00008G0000G00@t.</text>
+<text class="pl" x="24" y="192.45" font-size="7.6" textLength="360.2" lengthAdjust="spacing" style="animation-delay:1.105s" xml:space="preserve">             .G@88Ltftt111111iiiiiii111111111111111111111ttttttLG8888G00G00008,</text>
+<text class="pl" x="24" y="201.00" font-size="7.6" textLength="360.2" lengthAdjust="spacing" style="animation-delay:1.150s" xml:space="preserve">             .t@@G1fLLftt1iiiii;iiiiiii111iii111iiii1111111tttfttC8@80G0800081.</text>
+<text class="pl" x="24" y="209.55" font-size="7.6" textLength="355.7" lengthAdjust="spacing" style="animation-delay:1.195s" xml:space="preserve">              .0@CLGCGG00GGGCft11ii111111111111111tttffLLfLftttft1f8880008088,</text>
+<text class="pl" x="24" y="218.10" font-size="7.6" textLength="355.7" lengthAdjust="spacing" style="animation-delay:1.240s" xml:space="preserve">             .:f@ftfttfffLG080GCCLfttt1tttfLLCG00000GCLCCLLLCfttff1L88800808C.</text>
+<text class="pl" x="24" y="226.65" font-size="7.6" textLength="355.7" lengthAdjust="spacing" style="animation-delay:1.285s" xml:space="preserve">            .;0L8t1fLGGGCCLGG0GGGGCfttfffLCG00000GCLfLftt111tffttttt8880808@i.</text>
+<text class="pl" x="24" y="235.20" font-size="7.6" textLength="364.8" lengthAdjust="spacing" style="animation-delay:1.330s" xml:space="preserve">            .LGt0ttC08G;:0C@0800CCLftttttfLCGG00G0L00CGGGCCLfttttttt080000GCLf;.</text>
+<text class="pl" x="24" y="243.75" font-size="7.6" textLength="364.8" lengthAdjust="spacing" style="animation-delay:1.375s" xml:space="preserve">            :0ftGtfffCCt;t080GGfLLLt11111tLfC00f.tG88Gf;G8G0GLtttfft08080fttC88:</text>
+<text class="pl" x="24" y="252.30" font-size="7.6" textLength="369.4" lengthAdjust="spacing" style="animation-delay:1.420s" xml:space="preserve">           .;01LCtftttfLCffLCCCtfLftiiii1ff1fGCf11fGGLi1Lf11tttttftt0800f111tL@i.</text>
+<text class="pl" x="24" y="260.85" font-size="7.6" textLength="369.4" lengthAdjust="spacing" style="animation-delay:1.465s" xml:space="preserve">           .;Ct0fttttt111tttttttttt111111ttftfffLCLLLfff1i111ttttfft00CLGLf11f8i.</text>
+<text class="pl" x="24" y="269.40" font-size="7.6" textLength="364.8" lengthAdjust="spacing" style="animation-delay:1.510s" xml:space="preserve">           .iCt0fttt11111111ttttt11111111111ttttttttt111111111tttfff8GttC880ff0:</text>
+<text class="pl" x="24" y="277.95" font-size="7.6" textLength="364.8" lengthAdjust="spacing" style="animation-delay:1.555s" xml:space="preserve">            :CtCftttt111111111111111ii1111111111tttt1111111111ttffff8L1t:t0@ffC.</text>
+<text class="pl" x="24" y="286.50" font-size="7.6" textLength="364.8" lengthAdjust="spacing" style="animation-delay:1.600s" xml:space="preserve">            .fL1fftttt111111111t11i:;i;i1tttt11111111111ii111ttffLfC@t111C8CtC1.</text>
+<text class="pl" x="24" y="295.05" font-size="7.6" textLength="360.2" lengthAdjust="spacing" style="animation-delay:1.645s" xml:space="preserve">             :Lftfftttt11111111ii1i;i1iiii11ttt11111111ii111tttfLff8GtCCCfLfCf.</text>
+<text class="pl" x="24" y="303.60" font-size="7.6" textLength="355.7" lengthAdjust="spacing" style="animation-delay:1.690s" xml:space="preserve">             .:fLfftttt11111111fGCLtttLGGL1itfftt11111ii1111ttffLfCGtfLfttLCt.</text>
+<text class="pl" x="24" y="312.15" font-size="7.6" textLength="351.1" lengthAdjust="spacing" style="animation-delay:1.735s" xml:space="preserve">               .;LLfffttt111111LLttfffffLGCftttft111111111tttffffLCffftfLLt:.</text>
+<text class="pl" x="24" y="320.70" font-size="7.6" textLength="342.0" lengthAdjust="spacing" style="animation-delay:1.780s" xml:space="preserve">                .1CLffffttt11tt1tfffffffttt111tttt11111ttttffffffLLLfffti:.</text>
+<text class="pl" x="24" y="329.25" font-size="7.6" textLength="319.2" lengthAdjust="spacing" style="animation-delay:1.825s" xml:space="preserve">                 .LLLLfffffLffLLfffLLffLLLfffftt1tttttttffffffffffLf.,</text>
+<text class="pl" x="24" y="337.80" font-size="7.6" textLength="314.6" lengthAdjust="spacing" style="animation-delay:1.870s" xml:space="preserve">                 .1CLLffLLLGLLLLLLffLffffftfffLLLttttffffffffLfLLLC1.</text>
+<text class="pl" x="24" y="346.35" font-size="7.6" textLength="310.1" lengthAdjust="spacing" style="animation-delay:1.915s" xml:space="preserve">                  .LLfffLC00GGCLfLCCLCCCCLCCCGGCCLfffffffffffLfLLLC,</text>
+<text class="pl" x="24" y="354.90" font-size="7.6" textLength="310.1" lengthAdjust="spacing" style="animation-delay:1.960s" xml:space="preserve">                  .;CLffLCCftfLL1,;1;i11i1fLLCGGLLLfffffffffLLLLLCt.</text>
+<text class="pl" x="24" y="363.45" font-size="7.6" textLength="305.5" lengthAdjust="spacing" style="animation-delay:2.005s" xml:space="preserve">                   .1CfffffffffLCCGGGCCCCCLffttfffffffffffLLLLLLLG:</text>
+<text class="pl" x="24" y="372.00" font-size="7.6" textLength="305.5" lengthAdjust="spacing" style="animation-delay:2.050s" xml:space="preserve">                    .tCffffffffffLLLLCLLfffttttfffffffLLLLLLLLLLGL.</text>
+<text class="pl" x="24" y="380.55" font-size="7.6" textLength="305.5" lengthAdjust="spacing" style="animation-delay:2.095s" xml:space="preserve">                     .1CLffffttttt1ttttttttttttfffffLLLLLLLLLLCLGi.</text>
+<text class="pl" x="24" y="389.10" font-size="7.6" textLength="301.0" lengthAdjust="spacing" style="animation-delay:2.140s" xml:space="preserve">                      .iCLffffftttfffftttttttttfffffLLLLLLLLCCLLC,</text>
+<text class="pl" x="24" y="397.65" font-size="7.6" textLength="301.0" lengthAdjust="spacing" style="animation-delay:2.185s" xml:space="preserve">                       .fGLLffffffLLLffffftttfffffLLLLLLLCCCLffCf.</text>
+<text class="pl" x="24" y="406.20" font-size="7.6" textLength="305.5" lengthAdjust="spacing" style="animation-delay:2.230s" xml:space="preserve">                       .1GLCGCCCCCCCCLLLLLLLLLLffLCCCGGCCCLfffLG;1.</text>
+<text class="pl" x="24" y="414.75" font-size="7.6" textLength="310.1" lengthAdjust="spacing" style="animation-delay:2.275s" xml:space="preserve">                       .iCffLCGGG0GGGGCGGG0GGGGCGGGGGGCCLLffffGf.8G,</text>
+<text class="pl" x="24" y="423.30" font-size="7.6" textLength="319.2" lengthAdjust="spacing" style="animation-delay:2.320s" xml:space="preserve">                        :CfffffLLLCCGG000G00GGGGGGCCLLLLLLLffGL,,0@0:.</text>
+<text class="pl" x="24" y="431.85" font-size="7.6" textLength="323.8" lengthAdjust="spacing" style="animation-delay:2.365s" xml:space="preserve">                        .LLfffffffffLLCCCCCLLLLLLLLLLLLLfffLCt..L@080;.</text>
+<text class="pl" x="24" y="440.40" font-size="7.6" textLength="328.3" lengthAdjust="spacing" style="animation-delay:2.410s" xml:space="preserve">                       .,fLffffftttffffLLLLLLLLLLLLLLLLffLCf:..t@88088i.</text>
+<text class="pl" x="24" y="448.95" font-size="7.6" textLength="332.9" lengthAdjust="spacing" style="animation-delay:2.455s" xml:space="preserve">                      ,;fCfffffffttttttffffffffffffffffLLt:...t@8888888t.</text>
+<text class="pl" x="24" y="457.50" font-size="7.6" textLength="337.4" lengthAdjust="spacing" style="animation-delay:2.500s" xml:space="preserve">                 .;:.,ifLGLffffffffttttfffffffffffftfLL1:....f@88888888@C,</text>
+<text class="pl" x="24" y="466.05" font-size="7.6" textLength="346.6" lengthAdjust="spacing" style="animation-delay:2.545s" xml:space="preserve">            .;tLC0C:,1LLf0GtLfffffffffLLLLLfffffttLLfi,.....L@8888888800@0;.</text>
+<text class="pl" x="24" y="474.60" font-size="7.6" textLength="360.2" lengthAdjust="spacing" style="animation-delay:2.590s" xml:space="preserve">         .;fG8@@@f.:tLLfG@GfLfffffLLCLLLLLLfffffLLt;......:G@88888888888088L1,.</text>
+<text class="pl" x="24" y="483.15" font-size="7.6" textLength="373.9" lengthAdjust="spacing" style="animation-delay:2.635s" xml:space="preserve">      .:tG8@@8881.ifffft0@GLLLfffffLLLLLLLLffLLf1,.......18@888888888888800@@0C1:.</text>
+<text class="pl" x="24" y="491.70" font-size="7.6" textLength="387.6" lengthAdjust="spacing" style="animation-delay:2.680s" xml:space="preserve">  ,;tC08@@8888@t.i11tfff8@CLLLLLLfffLLLLffLLLt;.........f@888888888888888808888@8Ct:.</text>
+<text class="pl" x="24" y="500.25" font-size="7.6" textLength="401.3" lengthAdjust="spacing" style="animation-delay:2.725s" xml:space="preserve">tC08@@@8888808G.,;i1tttG@8CLLLLLLLLLffffLCL1:.........,C@8888888888888888888880088@8Ct:.</text>
+<text class="pl" x="24" y="508.80" font-size="7.6" textLength="415.0" lengthAdjust="spacing" style="animation-delay:2.770s" xml:space="preserve">@888888888888@1.::;iiiL@88CffLLLLLLLLCCCfi...........:0@08888888888888888088888880088@8Gt;.</text>
+<text class="pl" x="24" y="517.35" font-size="7.6" textLength="419.5" lengthAdjust="spacing" style="animation-delay:2.815s" xml:space="preserve">88888888888888;.,:::itG@88GLfffLLffLCL1:............i8@088888880888888888088888888880088@8GL</text>
+<text class="pl" x="24" y="525.90" font-size="7.6" textLength="419.5" lengthAdjust="spacing" style="animation-delay:2.860s" xml:space="preserve">88888888888880,..,::1fL888GLfttfftLL;..............t8808888880000088088800888888888888880088</text>
+<rect class="scan" x="0" y="0" width="464" height="36" fill="url(#scan)"/>
+</g>
+<line x1="464" y1="22" x2="464" y2="538" stroke="#30363d"/>
+<circle cx="488" cy="30" r="6" fill="#ff5f56"/>
+<circle cx="508" cy="30" r="6" fill="#ffbd2e"/>
+<circle cx="528" cy="30" r="6" fill="#27c93f"/>
+<text x="566" y="34" font-size="12" class="dim">dhanika@portfolio: ~</text>
+<g>
+<text x="482" y="88.0" font-size="14" textLength="16.8" lengthAdjust="spacing" class="prompt">$ </text>
+<text x="498.8" y="88.0" font-size="14" class="txt" textLength="50.4" lengthAdjust="spacing">whoami</text>
+<rect class="cover" x="480" y="72.0" width="73.2" height="25" style="--n:8;--d:0.36s;--t:0.60s"/>
+<text x="482" y="113.0" font-size="14" class="hl" textLength="184.8" lengthAdjust="spacing">Dhanika Jagodaarachchi</text>
+<rect class="cover" x="480" y="97.0" width="190.8" height="25" style="--n:22;--d:0.44s;--t:1.16s"/>
+<text x="482" y="153.0" font-size="14" textLength="16.8" lengthAdjust="spacing" class="prompt">$ </text>
+<text x="498.8" y="153.0" font-size="14" class="txt" textLength="100.8" lengthAdjust="spacing">cat role.txt</text>
+<rect class="cover" x="480" y="137.0" width="123.6" height="25" style="--n:14;--d:0.63s;--t:1.78s"/>
+<text x="482" y="178.0" font-size="14" class="txt" textLength="235.2" lengthAdjust="spacing">Full-Stack Software Engineer</text>
+<rect class="cover" x="480" y="162.0" width="241.2" height="25" style="--n:28;--d:0.56s;--t:2.61s"/>
+<text x="482" y="203.0" font-size="14" class="dim" textLength="310.8" lengthAdjust="spacing">paid intern / junior  ·  open to work</text>
+<rect class="cover" x="480" y="187.0" width="316.8" height="25" style="--n:37;--d:0.74s;--t:3.23s"/>
+<text x="482" y="243.0" font-size="14" textLength="16.8" lengthAdjust="spacing" class="prompt">$ </text>
+<text x="498.8" y="243.0" font-size="14" class="txt" textLength="109.2" lengthAdjust="spacing">cat stack.txt</text>
+<rect class="cover" x="480" y="227.0" width="132.0" height="25" style="--n:15;--d:0.67s;--t:4.15s"/>
+<text x="482" y="268.0" font-size="14" class="txt" textLength="260.4" lengthAdjust="spacing">Java · Spring Boot · TypeScript</text>
+<rect class="cover" x="480" y="252.0" width="266.4" height="25" style="--n:31;--d:0.62s;--t:5.03s"/>
+<text x="482" y="293.0" font-size="14" class="txt" textLength="252.0" lengthAdjust="spacing">React · React Native · Android</text>
+<rect class="cover" x="480" y="277.0" width="258.0" height="25" style="--n:30;--d:0.60s;--t:5.71s"/>
+<text x="482" y="333.0" font-size="14" textLength="16.8" lengthAdjust="spacing" class="prompt">$ </text>
+<text x="498.8" y="333.0" font-size="14" class="txt" textLength="92.4" lengthAdjust="spacing">cat now.txt</text>
+<rect class="cover" x="480" y="317.0" width="115.2" height="25" style="--n:13;--d:0.58s;--t:6.49s"/>
+<text x="482" y="358.0" font-size="14" class="txt" textLength="268.8" lengthAdjust="spacing">Shipping a production e-commerce</text>
+<rect class="cover" x="480" y="342.0" width="274.8" height="25" style="--n:32;--d:0.64s;--t:7.27s"/>
+<text x="482" y="383.0" font-size="14" class="txt" textLength="218.4" lengthAdjust="spacing">platform for a real client</text>
+<rect class="cover" x="480" y="367.0" width="224.4" height="25" style="--n:26;--d:0.52s;--t:7.97s"/>
+<text x="482" y="423.0" font-size="14" textLength="16.8" lengthAdjust="spacing" class="prompt">$ </text>
+<text x="498.8" y="423.0" font-size="14" class="txt" textLength="134.4" lengthAdjust="spacing">cat location.txt</text>
+<rect class="cover" x="480" y="407.0" width="157.2" height="25" style="--n:18;--d:0.81s;--t:8.67s"/>
+<text x="482" y="448.0" font-size="14" class="dim" textLength="352.8" lengthAdjust="spacing">Sri Lanka  ·  UTC+5:30  ·  remote-friendly</text>
+<rect class="cover" x="480" y="432.0" width="358.8" height="25" style="--n:42;--d:0.84s;--t:9.68s"/>
+<text x="482" y="488.0" font-size="14" class="prompt" textLength="16.8" lengthAdjust="spacing">$ </text>
+<rect class="cur" x="500.8" y="475.0" width="8" height="16" fill="#58e6aa"/>
+</g>
+<rect x=".5" y=".5" width="899" height="559" rx="14" fill="none" stroke="#30363d"/>
+</svg>

@@ -1,0 +1,59 @@
+
+                                     ..,::;;;;;:::::,,.
+                               .;tfLLGG888@@8888880000GLf1;,.
+                          .;111f8@@@8080000000000080888@@@80CLt;.
+                        .if8@@@@88000GG0080G0888888@8888888888880Li,.
+                     .,tG8@00GGG008800008888888@8888@888800880008800Lt;.
+                   .;f8@@88880GG0008888@8888880088008@@8880088800008888GLi..
+                 .1G8@80008888008888888888888880G880088@@@808@@808888888@@0L;.
+                .t@@8880GG0888888888888008@@888@88888888@@88@@@88888888888@@81.
+               .1088@8000888@88@888888088888@@88@@8888888@@@@@@@@@888888@@88@C:;
+              ,L@88880G888@@8888888808888888888888880888088888888@@@88888@@8@0i:
+             ,G@88800088@@800CCLCCCCCCGGCGGCGCCCCCCCCCG00088888888@@@@88@8888L,.
+            .L@88888@@88GCLLLfffffffffffffffffffttttttfLG00088888888@8@@8888G;,.
+           .,088888888GffffffftttttttttttttttttttttttttttfCCG08800888888@888@C;;:
+            ,0888880GCfffffttttt11111tttttttttt111111111t1tfLC0800G08888888888L,,
+            ,0@88880GLffttttt1111111111tttt1t11111111111111ttLL08000G00888888@8:.
+            .0@88800Cffttttt1111111111111111111111111111111ttfCG8888080G0088888i.
+            .C888880Lfftttt1111111111111111111111111111111ttttLG888880800G00088:
+            .i@8888Lffftttt1111iii111111111111111111111111tttffL00008G0000G00@t.
+             .G@88Ltftt111111iiiiiii111111111111111111111ttttttLG8888G00G00008,
+             .t@@G1fLLftt1iiiii;iiiiiii111iii111iiii1111111tttfttC8@80G0800081.
+              .0@CLGCGG00GGGCft11ii111111111111111tttffLLfLftttft1f8880008088,
+             .:f@ftfttfffLG080GCCLfttt1tttfLLCG00000GCLCCLLLCfttff1L88800808C.
+            .;0L8t1fLGGGCCLGG0GGGGCfttfffLCG00000GCLfLftt111tffttttt8880808@i.
+            .LGt0ttC08G;:0C@0800CCLftttttfLCGG00G0L00CGGGCCLfttttttt080000GCLf;.
+            :0ftGtfffCCt;t080GGfLLLt11111tLfC00f.tG88Gf;G8G0GLtttfft08080fttC88:
+           .;01LCtftttfLCffLCCCtfLftiiii1ff1fGCf11fGGLi1Lf11tttttftt0800f111tL@i.
+           .;Ct0fttttt111tttttttttt111111ttftfffLCLLLfff1i111ttttfft00CLGLf11f8i.
+           .iCt0fttt11111111ttttt11111111111ttttttttt111111111tttfff8GttC880ff0:
+            :CtCftttt111111111111111ii1111111111tttt1111111111ttffff8L1t:t0@ffC.
+            .fL1fftttt111111111t11i:;i;i1tttt11111111111ii111ttffLfC@t111C8CtC1.
+             :Lftfftttt11111111ii1i;i1iiii11ttt11111111ii111tttfLff8GtCCCfLfCf.
+             .:fLfftttt11111111fGCLtttLGGL1itfftt11111ii1111ttffLfCGtfLfttLCt.
+               .;LLfffttt111111LLttfffffLGCftttft111111111tttffffLCffftfLLt:.
+                .1CLffffttt11tt1tfffffffttt111tttt11111ttttffffffLLLfffti:.
+                 .LLLLfffffLffLLfffLLffLLLfffftt1tttttttffffffffffLf.,
+                 .1CLLffLLLGLLLLLLffLffffftfffLLLttttffffffffLfLLLC1.
+                  .LLfffLC00GGCLfLCCLCCCCLCCCGGCCLfffffffffffLfLLLC,
+                  .;CLffLCCftfLL1,;1;i11i1fLLCGGLLLfffffffffLLLLLCt.
+                   .1CfffffffffLCCGGGCCCCCLffttfffffffffffLLLLLLLG:
+                    .tCffffffffffLLLLCLLfffttttfffffffLLLLLLLLLLGL.
+                     .1CLffffttttt1ttttttttttttfffffLLLLLLLLLLCLGi.
+                      .iCLffffftttfffftttttttttfffffLLLLLLLLCCLLC,
+                       .fGLLffffffLLLffffftttfffffLLLLLLLCCCLffCf.
+                       .1GLCGCCCCCCCCLLLLLLLLLLffLCCCGGCCCLfffLG;1.
+                       .iCffLCGGG0GGGGCGGG0GGGGCGGGGGGCCLLffffGf.8G,
+                        :CfffffLLLCCGG000G00GGGGGGCCLLLLLLLffGL,,0@0:.
+                        .LLfffffffffLLCCCCCLLLLLLLLLLLLLfffLCt..L@080;.
+                       .,fLffffftttffffLLLLLLLLLLLLLLLLffLCf:..t@88088i.
+                      ,;fCfffffffttttttffffffffffffffffLLt:...t@8888888t.
+                 .;:.,ifLGLffffffffttttfffffffffffftfLL1:....f@88888888@C,
+            .;tLC0C:,1LLf0GtLfffffffffLLLLLfffffttLLfi,.....L@8888888800@0;.
+         .;fG8@@@f.:tLLfG@GfLfffffLLCLLLLLLfffffLLt;......:G@88888888888088L1,.
+      .:tG8@@8881.ifffft0@GLLLfffffLLLLLLLLffLLf1,.......18@888888888888800@@0C1:.
+  ,;tC08@@8888@t.i11tfff8@CLLLLLLfffLLLLffLLLt;.........f@888888888888888808888@8Ct:.
+tC08@@@8888808G.,;i1tttG@8CLLLLLLLLLffffLCL1:.........,C@8888888888888888888880088@8Ct:.
+@888888888888@1.::;iiiL@88CffLLLLLLLLCCCfi...........:0@08888888888888888088888880088@8Gt;.
+88888888888888;.,:::itG@88GLfffLLffLCL1:............i8@088888880888888888088888888880088@8GL
+88888888888880,..,::1fL888GLfttfftLL;..............t8808888880000088088800888888888888880088
