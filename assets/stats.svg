@@ -3,7 +3,7 @@
 <rect width="900" height="190" rx="14" fill="#0d1117" stroke="#30363d"/>
 <text x="36" y="70" class="v">14</text><text x="36" y="92" class="k">public repos</text>
 <text x="186" y="70" class="v">13</text><text x="186" y="92" class="k">original repos</text>
-<text x="336" y="70" class="v">1</text><text x="336" y="92" class="k">followers</text>
+<text x="336" y="70" class="v">2</text><text x="336" y="92" class="k">followers</text>
 <text x="500" y="38" class="k">// top languages</text>
 <rect class="bar" x="500.0" y="52" width="183.7" height="10" rx="3" fill="#58e6aa" style="animation-delay:0.00s"/>
 <rect class="bar" x="685.7" y="52" width="68.1" height="10" rx="3" fill="#79c0ff" style="animation-delay:0.12s"/>
@@ -15,4 +15,4 @@
 <circle cx="505" cy="118" r="5" fill="#d2a8ff"/><text x="518" y="122" class="l">HTML  19%</text>
 <circle cx="695" cy="118" r="5" fill="#ffa657"/><text x="708" y="122" class="l">JavaScript  7%</text>
 <circle cx="505" cy="142" r="5" fill="#ff7b72"/><text x="518" y="146" class="l">CSS  4%</text>
-<text x="36" y="172" class="k">updated 2026-11-05</text></svg>
+<text x="36" y="172" class="k">updated 2026-11-06</text></svg>
